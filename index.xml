@@ -4,17 +4,46 @@
     <title>Cao Trong Tin</title>
     <link>https://caotrongtin99.github.io/</link>
     <description>Recent content on Cao Trong Tin</description>
+    <image>
+      <url>https://caotrongtin99.github.io/profile.webp</url>
+      <link>https://caotrongtin99.github.io/profile.webp</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Jun 2022 15:42:17 +0700</lastBuildDate><atom:link href="https://caotrongtin99.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Jun 2022 15:42:17 +0700</lastBuildDate><atom:link href="https://caotrongtin99.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello world</title>
-      <link>https://caotrongtin99.github.io/posts/mypost/</link>
+      <title>React Fiber</title>
+      <link>https://caotrongtin99.github.io/posts/react-fiber/</link>
+      <pubDate>Tue, 07 Jun 2022 15:42:17 +0700</pubDate>
+      
+      <guid>https://caotrongtin99.github.io/posts/react-fiber/</guid>
+      <description>React Fiber is an ongoing reimplementation of React&amp;rsquo;s core algorithm. It is the culmination of over two years of research by the React team.
+Prerequisites A few things to know before diving into React Fiber:
+React Components, Elements, Instances Reconciliation React Basic Theoretical Concepts React design Principles Reconciliation Reconciliation is an algorithm that React uses to distinguish one DOM tree from another to determine which parts need to be changed.</description>
+    </item>
+    
+    <item>
+      <title>Understanding Date in Javascript</title>
+      <link>https://caotrongtin99.github.io/posts/date-js/</link>
       <pubDate>Fri, 03 Jun 2022 15:42:17 +0700</pubDate>
       
-      <guid>https://caotrongtin99.github.io/posts/mypost/</guid>
-      <description>Hello world</description>
+      <guid>https://caotrongtin99.github.io/posts/date-js/</guid>
+      <description>Hi there, i see that many developers are facing with problems about Date in javascript recently. Today, I gonna to show you how to use Date in js correctly.
+Timezones There are 2 definitions about timezones in js: UTC and Local time zones Local time refers to the timezone your computer is in.
+UTC is synonymous with Greenwich Mean Time (GMT) in practice.
+ISO 8061 format What is it? It&amp;rsquo;s an international standard introduced by ISO in 1988.</description>
     </item>
+    
+    <item>
+      <title></title>
+      <link>https://caotrongtin99.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://caotrongtin99.github.io/about/</guid>
+      <description>About</description>
+    </item>
+    
+    
     
   </channel>
 </rss>

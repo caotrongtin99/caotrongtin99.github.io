@@ -4,7 +4,57 @@
     <title>Tags on Cao Trong Tin</title>
     <link>https://caotrongtin99.github.io/tags/</link>
     <description>Recent content in Tags on Cao Trong Tin</description>
+    <image>
+      <url>https://caotrongtin99.github.io/profile.webp</url>
+      <link>https://caotrongtin99.github.io/profile.webp</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://caotrongtin99.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jun 2022 15:42:17 +0700</lastBuildDate><atom:link href="https://caotrongtin99.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>fiber</title>
+      <link>https://caotrongtin99.github.io/tags/fiber/</link>
+      <pubDate>Tue, 07 Jun 2022 15:42:17 +0700</pubDate>
+      
+      <guid>https://caotrongtin99.github.io/tags/fiber/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>javascript</title>
+      <link>https://caotrongtin99.github.io/tags/javascript/</link>
+      <pubDate>Tue, 07 Jun 2022 15:42:17 +0700</pubDate>
+      
+      <guid>https://caotrongtin99.github.io/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>react</title>
+      <link>https://caotrongtin99.github.io/tags/react/</link>
+      <pubDate>Tue, 07 Jun 2022 15:42:17 +0700</pubDate>
+      
+      <guid>https://caotrongtin99.github.io/tags/react/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>date object</title>
+      <link>https://caotrongtin99.github.io/tags/date-object/</link>
+      <pubDate>Fri, 03 Jun 2022 15:42:17 +0700</pubDate>
+      
+      <guid>https://caotrongtin99.github.io/tags/date-object/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iso format</title>
+      <link>https://caotrongtin99.github.io/tags/iso-format/</link>
+      <pubDate>Fri, 03 Jun 2022 15:42:17 +0700</pubDate>
+      
+      <guid>https://caotrongtin99.github.io/tags/iso-format/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

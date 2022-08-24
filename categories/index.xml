@@ -4,7 +4,30 @@
     <title>Categories on Cao Trong Tin</title>
     <link>https://caotrongtin99.github.io/categories/</link>
     <description>Recent content in Categories on Cao Trong Tin</description>
+    <image>
+      <url>https://caotrongtin99.github.io/profile.webp</url>
+      <link>https://caotrongtin99.github.io/profile.webp</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://caotrongtin99.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jun 2022 15:42:17 +0700</lastBuildDate><atom:link href="https://caotrongtin99.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>javascript</title>
+      <link>https://caotrongtin99.github.io/categories/javascript/</link>
+      <pubDate>Tue, 07 Jun 2022 15:42:17 +0700</pubDate>
+      
+      <guid>https://caotrongtin99.github.io/categories/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>react</title>
+      <link>https://caotrongtin99.github.io/categories/react/</link>
+      <pubDate>Tue, 07 Jun 2022 15:42:17 +0700</pubDate>
+      
+      <guid>https://caotrongtin99.github.io/categories/react/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

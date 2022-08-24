@@ -1,27 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Cao Trong Tin</title>
-    <link>https://caotrongtin99.github.io/posts/</link>
-    <description>Recent content in Posts on Cao Trong Tin</description>
+    <title>iso format on Cao Trong Tin</title>
+    <link>https://caotrongtin99.github.io/tags/iso-format/</link>
+    <description>Recent content in iso format on Cao Trong Tin</description>
     <image>
       <url>https://caotrongtin99.github.io/profile.webp</url>
       <link>https://caotrongtin99.github.io/profile.webp</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jun 2022 15:42:17 +0700</lastBuildDate><atom:link href="https://caotrongtin99.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>React Fiber</title>
-      <link>https://caotrongtin99.github.io/posts/react-fiber/</link>
-      <pubDate>Tue, 07 Jun 2022 15:42:17 +0700</pubDate>
-      
-      <guid>https://caotrongtin99.github.io/posts/react-fiber/</guid>
-      <description>React Fiber is an ongoing reimplementation of React&amp;rsquo;s core algorithm. It is the culmination of over two years of research by the React team.
-Prerequisites A few things to know before diving into React Fiber:
-React Components, Elements, Instances Reconciliation React Basic Theoretical Concepts React design Principles Reconciliation Reconciliation is an algorithm that React uses to distinguish one DOM tree from another to determine which parts need to be changed.</description>
-    </item>
-    
+    <lastBuildDate>Fri, 03 Jun 2022 15:42:17 +0700</lastBuildDate><atom:link href="https://caotrongtin99.github.io/tags/iso-format/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Understanding Date in Javascript</title>
       <link>https://caotrongtin99.github.io/posts/date-js/</link>
