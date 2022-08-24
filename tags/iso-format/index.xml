@@ -13,10 +13,10 @@
     <lastBuildDate>Fri, 03 Jun 2022 15:42:17 +0700</lastBuildDate><atom:link href="https://caotrongtin99.github.io/tags/iso-format/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Understanding Date in Javascript</title>
-      <link>https://caotrongtin99.github.io/posts/understanding-date-in-js/</link>
+      <link>https://caotrongtin99.github.io/posts/date-js/</link>
       <pubDate>Fri, 03 Jun 2022 15:42:17 +0700</pubDate>
       
-      <guid>https://caotrongtin99.github.io/posts/understanding-date-in-js/</guid>
+      <guid>https://caotrongtin99.github.io/posts/date-js/</guid>
       <description>Hi there, i see that many developers are facing with problems about Date in javascript recently. Today, I gonna to show you how to use Date in js correctly.
 Timezones There are 2 definitions about timezones in js: UTC and Local time zones Local time refers to the timezone your computer is in.
 UTC is synonymous with Greenwich Mean Time (GMT) in practice.
