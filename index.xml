@@ -47,6 +47,15 @@ A function always returns same output if it is passed constant parameters. It do
     </item>
     
     <item>
+      <title>Memory Leak Problems in Reactjs</title>
+      <link>https://caotrongtin99.github.io/posts/memory-leak-react/</link>
+      <pubDate>Wed, 03 Nov 2021 15:42:17 +0700</pubDate>
+      
+      <guid>https://caotrongtin99.github.io/posts/memory-leak-react/</guid>
+      <description>Memory Leak Memory leak is a type of resource leak that occurs when a computer program incorrectly manages memory allocations. Sometimes, we get a warning about memory leak in our React applications such as Can&amp;rsquo;t perform a React state update on an unmounted component. We shouldn&amp;rsquo;t update state in an unmounted component. For example, we are fetching data at the first mouting to update component states, but we immediately navigate to another page or take other actions to make the component unmounted so state updating becomes unuseful.</description>
+    </item>
+    
+    <item>
       <title></title>
       <link>https://caotrongtin99.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
