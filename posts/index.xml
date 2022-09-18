@@ -46,5 +46,24 @@ Pure Functions What is a pure function?
 A function always returns same output if it is passed constant parameters. It doesn&amp;rsquo;t depends on any state or data, it just depend on its input parameters. This function does not have any effect on other objects, such as requests, input, output or data mutations.</description>
     </item>
     
+    <item>
+      <title>What is Intersection Observer API?</title>
+      <link>https://caotrongtin99.github.io/posts/intersection-observer/</link>
+      <pubDate>Mon, 06 Dec 2021 22:42:17 +0700</pubDate>
+      
+      <guid>https://caotrongtin99.github.io/posts/intersection-observer/</guid>
+      <description>In the past, it&amp;rsquo;s difficult to determine a element is visible in the viewport or not, or how long the user was reading this content. Intersection Observer API offers some features that help users to improve user exprerience and speed up the website.
+❔ What is Intersection Observer API? Intersection Observer API offers a way to asynchronously observe changes in UI with ancestor elements or high-level document&amp;rsquo;s viewports. 🚀 Some features Lazy loading images or content Infinite Scrolling Report on ad visibility to calculate revenue Decide whether to perform actions or animations based on whether the user sees it.</description>
+    </item>
+    
+    <item>
+      <title>Memory Leak Problems in Reactjs</title>
+      <link>https://caotrongtin99.github.io/posts/memory-leak-react/</link>
+      <pubDate>Wed, 03 Nov 2021 15:42:17 +0700</pubDate>
+      
+      <guid>https://caotrongtin99.github.io/posts/memory-leak-react/</guid>
+      <description>Memory Leak Memory leak is a type of resource leak that occurs when a computer program incorrectly manages memory allocations. Sometimes, we get a warning about memory leak in our React applications such as Can&amp;rsquo;t perform a React state update on an unmounted component. We shouldn&amp;rsquo;t update state in an unmounted component. For example, we are fetching data at the first mouting to update component states, but we immediately navigate to another page or take other actions to make the component unmounted so state updating becomes unuseful.</description>
+    </item>
+    
   </channel>
 </rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>memory leak on Cao Trong Tin</title>
+    <link>https://caotrongtin99.github.io/tags/memory-leak/</link>
+    <description>Recent content in memory leak on Cao Trong Tin</description>
+    <image>
+      <url>https://caotrongtin99.github.io/profile.webp</url>
+      <link>https://caotrongtin99.github.io/profile.webp</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 Nov 2021 15:42:17 +0700</lastBuildDate><atom:link href="https://caotrongtin99.github.io/tags/memory-leak/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Memory Leak Problems in Reactjs</title>
+      <link>https://caotrongtin99.github.io/posts/memory-leak-react/</link>
+      <pubDate>Wed, 03 Nov 2021 15:42:17 +0700</pubDate>
+      
+      <guid>https://caotrongtin99.github.io/posts/memory-leak-react/</guid>
+      <description>Memory Leak Memory leak is a type of resource leak that occurs when a computer program incorrectly manages memory allocations. Sometimes, we get a warning about memory leak in our React applications such as Can&amp;rsquo;t perform a React state update on an unmounted component. We shouldn&amp;rsquo;t update state in an unmounted component. For example, we are fetching data at the first mouting to update component states, but we immediately navigate to another page or take other actions to make the component unmounted so state updating becomes unuseful.</description>
+    </item>
+    
+  </channel>
+</rss>
