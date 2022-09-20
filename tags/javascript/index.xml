@@ -17,7 +17,7 @@
       <pubDate>Tue, 07 Jun 2022 15:42:17 +0700</pubDate>
       
       <guid>https://caotrongtin99.github.io/posts/react-fiber/</guid>
-      <description>React Fiber is an ongoing reimplementation of React&amp;rsquo;s core algorithm. It is the culmination of over two years of research by the React team.
+      <description>Table of Contents Prerequisites Reconciliation Reconciliation vs Rendering Scheduling React Fiber React Fiber is an ongoing reimplementation of React&amp;rsquo;s core algorithm. It is the culmination of over two years of research by the React team.
 Prerequisites A few things to know before diving into React Fiber:
 React Components, Elements, Instances Reconciliation React Basic Theoretical Concepts React design Principles Reconciliation Reconciliation is an algorithm that React uses to distinguish one DOM tree from another to determine which parts need to be changed.</description>
     </item>
@@ -28,10 +28,9 @@ React Components, Elements, Instances Reconciliation React Basic Theoretical Con
       <pubDate>Fri, 03 Jun 2022 15:42:17 +0700</pubDate>
       
       <guid>https://caotrongtin99.github.io/posts/date-js/</guid>
-      <description>Hi there, i see that many developers are facing with problems about Date in javascript recently. Today, I gonna to show you how to use Date in js correctly.
+      <description>Table of Contents Timezones ISO 8061 format Date Constructions Hi there 👋, i see that many developers are facing with problems about Date in javascript recently. Today, I gonna to show you how to use Date in js correctly.
 Timezones There are 2 definitions about timezones in js: UTC and Local time zones Local time refers to the timezone your computer is in.
-UTC is synonymous with Greenwich Mean Time (GMT) in practice.
-ISO 8061 format What is it? It&amp;rsquo;s an international standard introduced by ISO in 1988.</description>
+UTC is synonymous with Greenwich Mean Time (GMT) in practice.</description>
     </item>
     
     <item>
@@ -40,7 +39,7 @@ ISO 8061 format What is it? It&amp;rsquo;s an international standard introduced 
       <pubDate>Fri, 04 Feb 2022 11:42:17 +0700</pubDate>
       
       <guid>https://caotrongtin99.github.io/posts/pure-function-js/</guid>
-      <description>Let&amp;rsquo;s explore what pure function is 👇
+      <description>Table of Contents Functions Pure Functions Side Effects Example Why is it important? Let&amp;rsquo;s explore what pure function is 👇
 Functions? Function is a execution of a task. It receives input and returns a value.
 Pure Functions What is a pure function?
 A function always returns same output if it is passed constant parameters. It doesn&amp;rsquo;t depends on any state or data, it just depend on its input parameters. This function does not have any effect on other objects, such as requests, input, output or data mutations.</description>
@@ -52,8 +51,8 @@ A function always returns same output if it is passed constant parameters. It do
       <pubDate>Mon, 06 Dec 2021 22:42:17 +0700</pubDate>
       
       <guid>https://caotrongtin99.github.io/posts/intersection-observer/</guid>
-      <description>In the past, it&amp;rsquo;s difficult to determine a element is visible in the viewport or not, or how long the user was reading this content. Intersection Observer API offers some features that help users to improve user exprerience and speed up the website.
-❔ What is Intersection Observer API? Intersection Observer API offers a way to asynchronously observe changes in UI with ancestor elements or high-level document&amp;rsquo;s viewports. 🚀 Some features Lazy loading images or content Infinite Scrolling Report on ad visibility to calculate revenue Decide whether to perform actions or animations based on whether the user sees it.</description>
+      <description>Table of Contents What is Intersection Observer API Some features Usage Example In the past, it&amp;rsquo;s difficult to determine a element is visible in the viewport or not, or how long the user was reading this content. Intersection Observer API offers some features that help users to improve user exprerience and speed up the website.
+❔ What is Intersection Observer API? Intersection Observer API offers a way to asynchronously observe changes in UI with ancestor elements or high-level document&amp;rsquo;s viewports.</description>
     </item>
     
     <item>
@@ -62,7 +61,7 @@ A function always returns same output if it is passed constant parameters. It do
       <pubDate>Wed, 03 Nov 2021 15:42:17 +0700</pubDate>
       
       <guid>https://caotrongtin99.github.io/posts/memory-leak-react/</guid>
-      <description>Memory Leak Memory leak is a type of resource leak that occurs when a computer program incorrectly manages memory allocations. Sometimes, we get a warning about memory leak in our React applications such as Can&amp;rsquo;t perform a React state update on an unmounted component. We shouldn&amp;rsquo;t update state in an unmounted component. For example, we are fetching data at the first mouting to update component states, but we immediately navigate to another page or take other actions to make the component unmounted so state updating becomes unuseful.</description>
+      <description>Table of Contents Memory Leak Solve the problem Some memory leak cases in React In conclusion Memory Leak Memory leak is a type of resource leak that occurs when a computer program incorrectly manages memory allocations. Sometimes, we get a warning about memory leak in our React applications such as Can&amp;rsquo;t perform a React state update on an unmounted component. We shouldn&amp;rsquo;t update state in an unmounted component. For example, we are fetching data at the first mouting to update component states, but we immediately navigate to another page or take other actions to make the component unmounted so state updating becomes unuseful.</description>
     </item>
     
   </channel>

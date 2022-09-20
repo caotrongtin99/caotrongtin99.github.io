@@ -17,8 +17,8 @@
       <pubDate>Mon, 06 Dec 2021 22:42:17 +0700</pubDate>
       
       <guid>https://caotrongtin99.github.io/posts/intersection-observer/</guid>
-      <description>In the past, it&amp;rsquo;s difficult to determine a element is visible in the viewport or not, or how long the user was reading this content. Intersection Observer API offers some features that help users to improve user exprerience and speed up the website.
-❔ What is Intersection Observer API? Intersection Observer API offers a way to asynchronously observe changes in UI with ancestor elements or high-level document&amp;rsquo;s viewports. 🚀 Some features Lazy loading images or content Infinite Scrolling Report on ad visibility to calculate revenue Decide whether to perform actions or animations based on whether the user sees it.</description>
+      <description>Table of Contents What is Intersection Observer API Some features Usage Example In the past, it&amp;rsquo;s difficult to determine a element is visible in the viewport or not, or how long the user was reading this content. Intersection Observer API offers some features that help users to improve user exprerience and speed up the website.
+❔ What is Intersection Observer API? Intersection Observer API offers a way to asynchronously observe changes in UI with ancestor elements or high-level document&amp;rsquo;s viewports.</description>
     </item>
     
     <item>
@@ -27,7 +27,7 @@
       <pubDate>Wed, 03 Nov 2021 15:42:17 +0700</pubDate>
       
       <guid>https://caotrongtin99.github.io/posts/memory-leak-react/</guid>
-      <description>Memory Leak Memory leak is a type of resource leak that occurs when a computer program incorrectly manages memory allocations. Sometimes, we get a warning about memory leak in our React applications such as Can&amp;rsquo;t perform a React state update on an unmounted component. We shouldn&amp;rsquo;t update state in an unmounted component. For example, we are fetching data at the first mouting to update component states, but we immediately navigate to another page or take other actions to make the component unmounted so state updating becomes unuseful.</description>
+      <description>Table of Contents Memory Leak Solve the problem Some memory leak cases in React In conclusion Memory Leak Memory leak is a type of resource leak that occurs when a computer program incorrectly manages memory allocations. Sometimes, we get a warning about memory leak in our React applications such as Can&amp;rsquo;t perform a React state update on an unmounted component. We shouldn&amp;rsquo;t update state in an unmounted component. For example, we are fetching data at the first mouting to update component states, but we immediately navigate to another page or take other actions to make the component unmounted so state updating becomes unuseful.</description>
     </item>
     
   </channel>
