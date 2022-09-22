@@ -34,6 +34,18 @@ UTC is synonymous with Greenwich Mean Time (GMT) in practice.</description>
     </item>
     
     <item>
+      <title>Async and defer in Javascript loading</title>
+      <link>https://caotrongtin99.github.io/posts/javascript-load/</link>
+      <pubDate>Fri, 04 Feb 2022 11:42:17 +0700</pubDate>
+      
+      <guid>https://caotrongtin99.github.io/posts/javascript-load/</guid>
+      <description>Table of Contents How HTML displayed on browser Script Tag Async attribute Defer attribute Difference beetween Async and Defer Use cases How HTML displayed on browser First, browser will download resources and parse HTML to display. HTML is parsed as soon as resources are loaded
+Script Tag To load a javascript file, we use script tag
+&amp;lt;script src=&amp;#34;/path/to/script.js&amp;#34;&amp;gt;&amp;lt;/script&amp;gt; 👇️Below is loading process: ✍️ Explain:
+First, HTML code will be parsed until reach script tag, script will be downloaded.</description>
+    </item>
+    
+    <item>
       <title>Pure Function in Javascript</title>
       <link>https://caotrongtin99.github.io/posts/pure-function-js/</link>
       <pubDate>Fri, 04 Feb 2022 11:42:17 +0700</pubDate>
