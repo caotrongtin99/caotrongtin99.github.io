@@ -10,11 +10,31 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jun 2022 15:42:17 +0700</lastBuildDate><atom:link href="https://caotrongtin99.github.io/categories/react/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Jul 2022 22:42:17 +0700</lastBuildDate><atom:link href="https://caotrongtin99.github.io/categories/react/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Server Side Rendering &amp; Static Site Generation</title>
+      <link>https://caotrongtin99.github.io/posts/ssr-ssg/</link>
+      <pubDate>Thu, 07 Jul 2022 22:42:17 +0700</pubDate>
+      
+      <guid>https://caotrongtin99.github.io/posts/ssr-ssg/</guid>
+      <description>There are two types of pre-rendering in Next.js. So what are they and which is the best approach?
+Table of Contents Rendering on Server Pre-rendering Server Side Rendering Static Site Generation Use cases Wrap Up Rendering on Server ✍️ Explain:
+When users request to server, server will sent a generated HTML file. After that, ReactDOM.hydrate() will run to hydrate (attach event listeners) the HTML rendered from the server. After hydration process, the website becomes interactive.</description>
+    </item>
+    
+    <item>
+      <title>How to update nested state correctly in React Hook</title>
+      <link>https://caotrongtin99.github.io/posts/update-nested-state/</link>
+      <pubDate>Tue, 04 Jan 2022 12:42:17 +0700</pubDate>
+      
+      <guid>https://caotrongtin99.github.io/posts/update-nested-state/</guid>
+      <description>Table of Contents Shallow Copy Deep Copy Problem Solution Wrap Up Shallow Copy Shallow Copy is a copy whose properties share the same references (point to the same underlying values) as those of the source object from which the copy was made. As a result, when you change either the source or the copy, you may also cause the other object to change too — and so, you may end up unintentionally causing changes to the source or copy that you don&amp;rsquo;t expect.</description>
+    </item>
+    
     <item>
       <title>React Fiber</title>
       <link>https://caotrongtin99.github.io/posts/react-fiber/</link>
-      <pubDate>Tue, 07 Jun 2022 15:42:17 +0700</pubDate>
+      <pubDate>Tue, 07 Dec 2021 15:42:17 +0700</pubDate>
       
       <guid>https://caotrongtin99.github.io/posts/react-fiber/</guid>
       <description>Table of Contents Prerequisites Reconciliation Reconciliation vs Rendering Scheduling React Fiber React Fiber is an ongoing reimplementation of React&amp;rsquo;s core algorithm. It is the culmination of over two years of research by the React team.

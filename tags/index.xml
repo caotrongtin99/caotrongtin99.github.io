@@ -10,49 +10,67 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jun 2022 15:42:17 +0700</lastBuildDate><atom:link href="https://caotrongtin99.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Jul 2022 22:42:17 +0700</lastBuildDate><atom:link href="https://caotrongtin99.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>fiber</title>
-      <link>https://caotrongtin99.github.io/tags/fiber/</link>
-      <pubDate>Tue, 07 Jun 2022 15:42:17 +0700</pubDate>
+      <title>hydration</title>
+      <link>https://caotrongtin99.github.io/tags/hydration/</link>
+      <pubDate>Thu, 07 Jul 2022 22:42:17 +0700</pubDate>
       
-      <guid>https://caotrongtin99.github.io/tags/fiber/</guid>
+      <guid>https://caotrongtin99.github.io/tags/hydration/</guid>
       <description></description>
     </item>
     
     <item>
       <title>javascript</title>
       <link>https://caotrongtin99.github.io/tags/javascript/</link>
-      <pubDate>Tue, 07 Jun 2022 15:42:17 +0700</pubDate>
+      <pubDate>Thu, 07 Jul 2022 22:42:17 +0700</pubDate>
       
       <guid>https://caotrongtin99.github.io/tags/javascript/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Pre-rendering</title>
+      <link>https://caotrongtin99.github.io/tags/pre-rendering/</link>
+      <pubDate>Thu, 07 Jul 2022 22:42:17 +0700</pubDate>
+      
+      <guid>https://caotrongtin99.github.io/tags/pre-rendering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>react</title>
       <link>https://caotrongtin99.github.io/tags/react/</link>
-      <pubDate>Tue, 07 Jun 2022 15:42:17 +0700</pubDate>
+      <pubDate>Thu, 07 Jul 2022 22:42:17 +0700</pubDate>
       
       <guid>https://caotrongtin99.github.io/tags/react/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>date object</title>
-      <link>https://caotrongtin99.github.io/tags/date-object/</link>
-      <pubDate>Fri, 03 Jun 2022 15:42:17 +0700</pubDate>
+      <title>SCR</title>
+      <link>https://caotrongtin99.github.io/tags/scr/</link>
+      <pubDate>Thu, 07 Jul 2022 22:42:17 +0700</pubDate>
       
-      <guid>https://caotrongtin99.github.io/tags/date-object/</guid>
+      <guid>https://caotrongtin99.github.io/tags/scr/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>iso format</title>
-      <link>https://caotrongtin99.github.io/tags/iso-format/</link>
-      <pubDate>Fri, 03 Jun 2022 15:42:17 +0700</pubDate>
+      <title>SSG</title>
+      <link>https://caotrongtin99.github.io/tags/ssg/</link>
+      <pubDate>Thu, 07 Jul 2022 22:42:17 +0700</pubDate>
       
-      <guid>https://caotrongtin99.github.io/tags/iso-format/</guid>
+      <guid>https://caotrongtin99.github.io/tags/ssg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SSR</title>
+      <link>https://caotrongtin99.github.io/tags/ssr/</link>
+      <pubDate>Thu, 07 Jul 2022 22:42:17 +0700</pubDate>
+      
+      <guid>https://caotrongtin99.github.io/tags/ssr/</guid>
       <description></description>
     </item>
     
@@ -62,6 +80,42 @@
       <pubDate>Fri, 04 Feb 2022 11:42:17 +0700</pubDate>
       
       <guid>https://caotrongtin99.github.io/tags/pure-function/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deep copy</title>
+      <link>https://caotrongtin99.github.io/tags/deep-copy/</link>
+      <pubDate>Tue, 04 Jan 2022 12:42:17 +0700</pubDate>
+      
+      <guid>https://caotrongtin99.github.io/tags/deep-copy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>immer</title>
+      <link>https://caotrongtin99.github.io/tags/immer/</link>
+      <pubDate>Tue, 04 Jan 2022 12:42:17 +0700</pubDate>
+      
+      <guid>https://caotrongtin99.github.io/tags/immer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shallow comparison</title>
+      <link>https://caotrongtin99.github.io/tags/shallow-comparison/</link>
+      <pubDate>Tue, 04 Jan 2022 12:42:17 +0700</pubDate>
+      
+      <guid>https://caotrongtin99.github.io/tags/shallow-comparison/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fiber</title>
+      <link>https://caotrongtin99.github.io/tags/fiber/</link>
+      <pubDate>Tue, 07 Dec 2021 15:42:17 +0700</pubDate>
+      
+      <guid>https://caotrongtin99.github.io/tags/fiber/</guid>
       <description></description>
     </item>
     
@@ -80,6 +134,24 @@
       <pubDate>Wed, 03 Nov 2021 15:42:17 +0700</pubDate>
       
       <guid>https://caotrongtin99.github.io/tags/memory-leak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>date object</title>
+      <link>https://caotrongtin99.github.io/tags/date-object/</link>
+      <pubDate>Thu, 03 Jun 2021 15:42:17 +0700</pubDate>
+      
+      <guid>https://caotrongtin99.github.io/tags/date-object/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iso format</title>
+      <link>https://caotrongtin99.github.io/tags/iso-format/</link>
+      <pubDate>Thu, 03 Jun 2021 15:42:17 +0700</pubDate>
+      
+      <guid>https://caotrongtin99.github.io/tags/iso-format/</guid>
       <description></description>
     </item>
     

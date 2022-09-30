@@ -10,11 +10,11 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jun 2022 15:42:17 +0700</lastBuildDate><atom:link href="https://caotrongtin99.github.io/tags/fiber/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Dec 2021 15:42:17 +0700</lastBuildDate><atom:link href="https://caotrongtin99.github.io/tags/fiber/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>React Fiber</title>
       <link>https://caotrongtin99.github.io/posts/react-fiber/</link>
-      <pubDate>Tue, 07 Jun 2022 15:42:17 +0700</pubDate>
+      <pubDate>Tue, 07 Dec 2021 15:42:17 +0700</pubDate>
       
       <guid>https://caotrongtin99.github.io/posts/react-fiber/</guid>
       <description>Table of Contents Prerequisites Reconciliation Reconciliation vs Rendering Scheduling React Fiber React Fiber is an ongoing reimplementation of React&amp;rsquo;s core algorithm. It is the culmination of over two years of research by the React team.
