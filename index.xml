@@ -23,30 +23,6 @@ When users request to server, server will sent a generated HTML file. After that
     </item>
     
     <item>
-      <title>Async and defer in Javascript loading</title>
-      <link>https://caotrongtin99.github.io/posts/javascript-load/</link>
-      <pubDate>Fri, 04 Feb 2022 11:42:17 +0700</pubDate>
-      
-      <guid>https://caotrongtin99.github.io/posts/javascript-load/</guid>
-      <description>Table of Contents How HTML displayed on browser Script Tag Async attribute Defer attribute Difference beetween Async and Defer Use cases How HTML displayed on browser First, browser will download resources and parse HTML to display. HTML is parsed as soon as resources are loaded
-Script Tag To load a javascript file, we use script tag
-&amp;lt;script src=&amp;#34;/path/to/script.js&amp;#34;&amp;gt;&amp;lt;/script&amp;gt; 👇️Below is loading process: ✍️ Explain:
-First, HTML code will be parsed until reach script tag, script will be downloaded.</description>
-    </item>
-    
-    <item>
-      <title>Pure Function in Javascript</title>
-      <link>https://caotrongtin99.github.io/posts/pure-function-js/</link>
-      <pubDate>Fri, 04 Feb 2022 11:42:17 +0700</pubDate>
-      
-      <guid>https://caotrongtin99.github.io/posts/pure-function-js/</guid>
-      <description>Table of Contents Functions Pure Functions Side Effects Example Why is it important? Let&amp;rsquo;s explore what pure function is 👇
-Functions? Function is a execution of a task. It receives input and returns a value.
-Pure Functions What is a pure function?
-A function always returns same output if it is passed constant parameters. It doesn&amp;rsquo;t depends on any state or data, it just depend on its input parameters. This function does not have any effect on other objects, such as requests, input, output or data mutations.</description>
-    </item>
-    
-    <item>
       <title>How to update nested state correctly in React Hook</title>
       <link>https://caotrongtin99.github.io/posts/update-nested-state/</link>
       <pubDate>Tue, 04 Jan 2022 12:42:17 +0700</pubDate>
@@ -86,9 +62,33 @@ React Components, Elements, Instances Reconciliation React Basic Theoretical Con
     </item>
     
     <item>
+      <title>Async and defer in Javascript loading</title>
+      <link>https://caotrongtin99.github.io/posts/javascript-load/</link>
+      <pubDate>Sat, 04 Sep 2021 11:42:17 +0700</pubDate>
+      
+      <guid>https://caotrongtin99.github.io/posts/javascript-load/</guid>
+      <description>Table of Contents How HTML displayed on browser Script Tag Async attribute Defer attribute Difference beetween Async and Defer Use cases How HTML displayed on browser First, browser will download resources and parse HTML to display. HTML is parsed as soon as resources are loaded
+Script Tag To load a javascript file, we use script tag
+&amp;lt;script src=&amp;#34;/path/to/script.js&amp;#34;&amp;gt;&amp;lt;/script&amp;gt; 👇️Below is loading process: ✍️ Explain:
+First, HTML code will be parsed until reach script tag, script will be downloaded.</description>
+    </item>
+    
+    <item>
+      <title>Pure Function in Javascript</title>
+      <link>https://caotrongtin99.github.io/posts/pure-function-js/</link>
+      <pubDate>Sun, 04 Jul 2021 11:42:17 +0700</pubDate>
+      
+      <guid>https://caotrongtin99.github.io/posts/pure-function-js/</guid>
+      <description>Table of Contents Functions Pure Functions Side Effects Example Why is it important? Let&amp;rsquo;s explore what pure function is 👇
+Functions? Function is a execution of a task. It receives input and returns a value.
+Pure Functions What is a pure function?
+A function always returns same output if it is passed constant parameters. It doesn&amp;rsquo;t depends on any state or data, it just depend on its input parameters. This function does not have any effect on other objects, such as requests, input, output or data mutations.</description>
+    </item>
+    
+    <item>
       <title>Understanding Date in Javascript</title>
       <link>https://caotrongtin99.github.io/posts/date-js/</link>
-      <pubDate>Thu, 03 Jun 2021 15:42:17 +0700</pubDate>
+      <pubDate>Wed, 03 Feb 2021 15:42:17 +0700</pubDate>
       
       <guid>https://caotrongtin99.github.io/posts/date-js/</guid>
       <description>Table of Contents Timezones ISO 8061 format Date Constructions Hi there 👋, i see that many developers are facing with problems about Date in javascript recently. Today, I gonna to show you how to use Date in js correctly.

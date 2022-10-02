@@ -10,11 +10,11 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Jun 2021 15:42:17 +0700</lastBuildDate><atom:link href="https://caotrongtin99.github.io/tags/iso-format/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Feb 2021 15:42:17 +0700</lastBuildDate><atom:link href="https://caotrongtin99.github.io/tags/iso-format/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Understanding Date in Javascript</title>
       <link>https://caotrongtin99.github.io/posts/date-js/</link>
-      <pubDate>Thu, 03 Jun 2021 15:42:17 +0700</pubDate>
+      <pubDate>Wed, 03 Feb 2021 15:42:17 +0700</pubDate>
       
       <guid>https://caotrongtin99.github.io/posts/date-js/</guid>
       <description>Table of Contents Timezones ISO 8061 format Date Constructions Hi there 👋, i see that many developers are facing with problems about Date in javascript recently. Today, I gonna to show you how to use Date in js correctly.

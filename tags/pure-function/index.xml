@@ -10,11 +10,11 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Feb 2022 11:42:17 +0700</lastBuildDate><atom:link href="https://caotrongtin99.github.io/tags/pure-function/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Jul 2021 11:42:17 +0700</lastBuildDate><atom:link href="https://caotrongtin99.github.io/tags/pure-function/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pure Function in Javascript</title>
       <link>https://caotrongtin99.github.io/posts/pure-function-js/</link>
-      <pubDate>Fri, 04 Feb 2022 11:42:17 +0700</pubDate>
+      <pubDate>Sun, 04 Jul 2021 11:42:17 +0700</pubDate>
       
       <guid>https://caotrongtin99.github.io/posts/pure-function-js/</guid>
       <description>Table of Contents Functions Pure Functions Side Effects Example Why is it important? Let&amp;rsquo;s explore what pure function is 👇

@@ -75,15 +75,6 @@
     </item>
     
     <item>
-      <title>pure function</title>
-      <link>https://caotrongtin99.github.io/tags/pure-function/</link>
-      <pubDate>Fri, 04 Feb 2022 11:42:17 +0700</pubDate>
-      
-      <guid>https://caotrongtin99.github.io/tags/pure-function/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>deep copy</title>
       <link>https://caotrongtin99.github.io/tags/deep-copy/</link>
       <pubDate>Tue, 04 Jan 2022 12:42:17 +0700</pubDate>
@@ -138,9 +129,36 @@
     </item>
     
     <item>
+      <title>async</title>
+      <link>https://caotrongtin99.github.io/tags/async/</link>
+      <pubDate>Sat, 04 Sep 2021 11:42:17 +0700</pubDate>
+      
+      <guid>https://caotrongtin99.github.io/tags/async/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>defer</title>
+      <link>https://caotrongtin99.github.io/tags/defer/</link>
+      <pubDate>Sat, 04 Sep 2021 11:42:17 +0700</pubDate>
+      
+      <guid>https://caotrongtin99.github.io/tags/defer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pure function</title>
+      <link>https://caotrongtin99.github.io/tags/pure-function/</link>
+      <pubDate>Sun, 04 Jul 2021 11:42:17 +0700</pubDate>
+      
+      <guid>https://caotrongtin99.github.io/tags/pure-function/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>date object</title>
       <link>https://caotrongtin99.github.io/tags/date-object/</link>
-      <pubDate>Thu, 03 Jun 2021 15:42:17 +0700</pubDate>
+      <pubDate>Wed, 03 Feb 2021 15:42:17 +0700</pubDate>
       
       <guid>https://caotrongtin99.github.io/tags/date-object/</guid>
       <description></description>
@@ -149,7 +167,7 @@
     <item>
       <title>iso format</title>
       <link>https://caotrongtin99.github.io/tags/iso-format/</link>
-      <pubDate>Thu, 03 Jun 2021 15:42:17 +0700</pubDate>
+      <pubDate>Wed, 03 Feb 2021 15:42:17 +0700</pubDate>
       
       <guid>https://caotrongtin99.github.io/tags/iso-format/</guid>
       <description></description>

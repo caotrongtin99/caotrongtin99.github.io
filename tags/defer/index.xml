@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>defer on Cao Trong Tin</title>
+    <link>https://caotrongtin99.github.io/tags/defer/</link>
+    <description>Recent content in defer on Cao Trong Tin</description>
+    <image>
+      <url>https://caotrongtin99.github.io/profile.webp</url>
+      <link>https://caotrongtin99.github.io/profile.webp</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 04 Sep 2021 11:42:17 +0700</lastBuildDate><atom:link href="https://caotrongtin99.github.io/tags/defer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Async and defer in Javascript loading</title>
+      <link>https://caotrongtin99.github.io/posts/javascript-load/</link>
+      <pubDate>Sat, 04 Sep 2021 11:42:17 +0700</pubDate>
+      
+      <guid>https://caotrongtin99.github.io/posts/javascript-load/</guid>
+      <description>Table of Contents How HTML displayed on browser Script Tag Async attribute Defer attribute Difference beetween Async and Defer Use cases How HTML displayed on browser First, browser will download resources and parse HTML to display. HTML is parsed as soon as resources are loaded
+Script Tag To load a javascript file, we use script tag
+&amp;lt;script src=&amp;#34;/path/to/script.js&amp;#34;&amp;gt;&amp;lt;/script&amp;gt; 👇️Below is loading process: ✍️ Explain:
+First, HTML code will be parsed until reach script tag, script will be downloaded.</description>
+    </item>
+    
+  </channel>
+</rss>
