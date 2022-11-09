@@ -4,16 +4,96 @@
     <title>Posts on Cao Trong Tin</title>
     <link>https://caotrongtin99.github.io/posts/</link>
     <description>Recent content in Posts on Cao Trong Tin</description>
+    <image>
+      <url>https://caotrongtin99.github.io/profile.webp</url>
+      <link>https://caotrongtin99.github.io/profile.webp</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Jun 2022 15:42:17 +0700</lastBuildDate><atom:link href="https://caotrongtin99.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Jul 2022 22:42:17 +0700</lastBuildDate><atom:link href="https://caotrongtin99.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello world</title>
-      <link>https://caotrongtin99.github.io/posts/mypost/</link>
-      <pubDate>Fri, 03 Jun 2022 15:42:17 +0700</pubDate>
+      <title>Server Side Rendering &amp; Static Site Generation</title>
+      <link>https://caotrongtin99.github.io/posts/ssr-ssg/</link>
+      <pubDate>Thu, 07 Jul 2022 22:42:17 +0700</pubDate>
       
-      <guid>https://caotrongtin99.github.io/posts/mypost/</guid>
-      <description>Hello world</description>
+      <guid>https://caotrongtin99.github.io/posts/ssr-ssg/</guid>
+      <description>There are two types of pre-rendering in Next.js. So what are they and which is the best approach?
+Table of Contents Rendering on Server Pre-rendering Server Side Rendering Static Site Generation Use cases Wrap Up Rendering on Server ✍️ Explain:
+When users request to server, server will sent a generated HTML file. After that, ReactDOM.hydrate() will run to hydrate (attach event listeners) the HTML rendered from the server. After hydration process, the website becomes interactive.</description>
+    </item>
+    
+    <item>
+      <title>How to update nested state correctly in React Hook</title>
+      <link>https://caotrongtin99.github.io/posts/update-nested-state/</link>
+      <pubDate>Tue, 04 Jan 2022 12:42:17 +0700</pubDate>
+      
+      <guid>https://caotrongtin99.github.io/posts/update-nested-state/</guid>
+      <description>Table of Contents Shallow Copy Deep Copy Problem Solution Wrap Up Shallow Copy Shallow Copy is a copy whose properties share the same references (point to the same underlying values) as those of the source object from which the copy was made. As a result, when you change either the source or the copy, you may also cause the other object to change too — and so, you may end up unintentionally causing changes to the source or copy that you don&amp;rsquo;t expect.</description>
+    </item>
+    
+    <item>
+      <title>React Fiber</title>
+      <link>https://caotrongtin99.github.io/posts/react-fiber/</link>
+      <pubDate>Tue, 07 Dec 2021 15:42:17 +0700</pubDate>
+      
+      <guid>https://caotrongtin99.github.io/posts/react-fiber/</guid>
+      <description>Table of Contents Prerequisites Reconciliation Reconciliation vs Rendering Scheduling React Fiber React Fiber is an ongoing reimplementation of React&amp;rsquo;s core algorithm. It is the culmination of over two years of research by the React team.
+Prerequisites A few things to know before diving into React Fiber:
+React Components, Elements, Instances Reconciliation React Basic Theoretical Concepts React design Principles Reconciliation Reconciliation is an algorithm that React uses to distinguish one DOM tree from another to determine which parts need to be changed.</description>
+    </item>
+    
+    <item>
+      <title>What is Intersection Observer API?</title>
+      <link>https://caotrongtin99.github.io/posts/intersection-observer/</link>
+      <pubDate>Mon, 06 Dec 2021 22:42:17 +0700</pubDate>
+      
+      <guid>https://caotrongtin99.github.io/posts/intersection-observer/</guid>
+      <description>Table of Contents What is Intersection Observer API Some features Usage Example In the past, it&amp;rsquo;s difficult to determine a element is visible in the viewport or not, or how long the user was reading this content. Intersection Observer API offers some features that help users to improve user exprerience and speed up the website.
+❔ What is Intersection Observer API? Intersection Observer API offers a way to asynchronously observe changes in UI with ancestor elements or high-level document&amp;rsquo;s viewports.</description>
+    </item>
+    
+    <item>
+      <title>Memory Leak Problems in Reactjs</title>
+      <link>https://caotrongtin99.github.io/posts/memory-leak-react/</link>
+      <pubDate>Wed, 03 Nov 2021 15:42:17 +0700</pubDate>
+      
+      <guid>https://caotrongtin99.github.io/posts/memory-leak-react/</guid>
+      <description>Table of Contents Memory Leak Solve the problem Some memory leak cases in React In conclusion Memory Leak Memory leak is a type of resource leak that occurs when a computer program incorrectly manages memory allocations. Sometimes, we get a warning about memory leak in our React applications such as Can&amp;rsquo;t perform a React state update on an unmounted component. We shouldn&amp;rsquo;t update state in an unmounted component. For example, we are fetching data at the first mouting to update component states, but we immediately navigate to another page or take other actions to make the component unmounted so state updating becomes unuseful.</description>
+    </item>
+    
+    <item>
+      <title>Async and defer in Javascript loading</title>
+      <link>https://caotrongtin99.github.io/posts/javascript-load/</link>
+      <pubDate>Sat, 04 Sep 2021 11:42:17 +0700</pubDate>
+      
+      <guid>https://caotrongtin99.github.io/posts/javascript-load/</guid>
+      <description>Table of Contents How HTML displayed on browser Script Tag Async attribute Defer attribute Difference beetween Async and Defer Use cases How HTML displayed on browser First, browser will download resources and parse HTML to display. HTML is parsed as soon as resources are loaded
+Script Tag To load a javascript file, we use script tag
+&amp;lt;script src=&amp;#34;/path/to/script.js&amp;#34;&amp;gt;&amp;lt;/script&amp;gt; 👇️Below is loading process: ✍️ Explain:
+First, HTML code will be parsed until reach script tag, script will be downloaded.</description>
+    </item>
+    
+    <item>
+      <title>Pure Function in Javascript</title>
+      <link>https://caotrongtin99.github.io/posts/pure-function-js/</link>
+      <pubDate>Sun, 04 Jul 2021 11:42:17 +0700</pubDate>
+      
+      <guid>https://caotrongtin99.github.io/posts/pure-function-js/</guid>
+      <description>Table of Contents Functions Pure Functions Side Effects Example Why is it important? Let&amp;rsquo;s explore what pure function is 👇
+Functions? Function is a execution of a task. It receives input and returns a value.
+Pure Functions What is a pure function?
+A function always returns same output if it is passed constant parameters. It doesn&amp;rsquo;t depends on any state or data, it just depend on its input parameters. This function does not have any effect on other objects, such as requests, input, output or data mutations.</description>
+    </item>
+    
+    <item>
+      <title>Understanding Date in Javascript</title>
+      <link>https://caotrongtin99.github.io/posts/date-js/</link>
+      <pubDate>Wed, 03 Feb 2021 15:42:17 +0700</pubDate>
+      
+      <guid>https://caotrongtin99.github.io/posts/date-js/</guid>
+      <description>Table of Contents Timezones ISO 8061 format Date Constructions Hi there 👋, i see that many developers are facing with problems about Date in javascript recently. Today, I gonna to show you how to use Date in js correctly.
+Timezones There are 2 definitions about timezones in js: UTC and Local time zones Local time refers to the timezone your computer is in.
+UTC is synonymous with Greenwich Mean Time (GMT) in practice.</description>
     </item>
     
   </channel>

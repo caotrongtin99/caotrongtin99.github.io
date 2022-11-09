@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>pure function on Cao Trong Tin</title>
+    <link>https://caotrongtin99.github.io/tags/pure-function/</link>
+    <description>Recent content in pure function on Cao Trong Tin</description>
+    <image>
+      <url>https://caotrongtin99.github.io/profile.webp</url>
+      <link>https://caotrongtin99.github.io/profile.webp</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Jul 2021 11:42:17 +0700</lastBuildDate><atom:link href="https://caotrongtin99.github.io/tags/pure-function/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pure Function in Javascript</title>
+      <link>https://caotrongtin99.github.io/posts/pure-function-js/</link>
+      <pubDate>Sun, 04 Jul 2021 11:42:17 +0700</pubDate>
+      
+      <guid>https://caotrongtin99.github.io/posts/pure-function-js/</guid>
+      <description>Table of Contents Functions Pure Functions Side Effects Example Why is it important? Let&amp;rsquo;s explore what pure function is 👇
+Functions? Function is a execution of a task. It receives input and returns a value.
+Pure Functions What is a pure function?
+A function always returns same output if it is passed constant parameters. It doesn&amp;rsquo;t depends on any state or data, it just depend on its input parameters. This function does not have any effect on other objects, such as requests, input, output or data mutations.</description>
+    </item>
+    
+  </channel>
+</rss>

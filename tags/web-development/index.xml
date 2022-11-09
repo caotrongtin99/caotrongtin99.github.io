@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>web-development on Cao Trong Tin</title>
+    <link>https://caotrongtin99.github.io/tags/web-development/</link>
+    <description>Recent content in web-development on Cao Trong Tin</description>
+    <image>
+      <url>https://caotrongtin99.github.io/profile.webp</url>
+      <link>https://caotrongtin99.github.io/profile.webp</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Dec 2021 22:42:17 +0700</lastBuildDate><atom:link href="https://caotrongtin99.github.io/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is Intersection Observer API?</title>
+      <link>https://caotrongtin99.github.io/posts/intersection-observer/</link>
+      <pubDate>Mon, 06 Dec 2021 22:42:17 +0700</pubDate>
+      
+      <guid>https://caotrongtin99.github.io/posts/intersection-observer/</guid>
+      <description>Table of Contents What is Intersection Observer API Some features Usage Example In the past, it&amp;rsquo;s difficult to determine a element is visible in the viewport or not, or how long the user was reading this content. Intersection Observer API offers some features that help users to improve user exprerience and speed up the website.
+❔ What is Intersection Observer API? Intersection Observer API offers a way to asynchronously observe changes in UI with ancestor elements or high-level document&amp;rsquo;s viewports.</description>
+    </item>
+    
+  </channel>
+</rss>
